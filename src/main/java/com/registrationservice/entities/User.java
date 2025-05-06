@@ -2,7 +2,7 @@ package com.registrationservice.entities;
 
 import java.time.LocalDateTime;
 
-import javax.management.relation.Role;
+import com.registrationservice.enums.Role;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
