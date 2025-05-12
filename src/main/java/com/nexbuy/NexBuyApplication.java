@@ -1,0 +1,13 @@
+package com.nexbuy;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class NexBuyApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(NexBuyApplication.class, args);
+	}
+
+}
